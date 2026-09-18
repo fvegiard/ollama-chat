@@ -1,0 +1,16 @@
+{
+  "name": "ollama-chat",
+  "version": "1.0.0",
+  "description": "Punk-styled local LLM chat for Ollama — Alliance Gagnante / Francis Végiard Dev",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "chat": "node cli/chat.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "author": "Francis Végiard",
+  "dependencies": {}
+}
